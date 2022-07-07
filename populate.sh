@@ -27,7 +27,7 @@ while read -r line <&3; do
 
             cat <<- EOF >> "${assignment}/${README_FILENAME}"
 				# $(echo "${assignment}" | tr '_' ' '): ${theme}
-				[Contest link](<${link}>) (may be invalid)
+				[Contest link](<${link}>)
 
 				---
 
@@ -52,7 +52,7 @@ while read -r line <&3; do
 
 				## ${count}. ${task} (${difficulty})
 
-				[HackerRank link](<${link}>) (may be invalid)
+				[HackerRank link](<${link}>)
 
 				[Task statement](<./${task}/${README_FILENAME}>)
 			EOF
@@ -60,7 +60,7 @@ while read -r line <&3; do
             cat <<- EOF >> "${assignment}/${task}/${README_FILENAME}"
 				# Task ${count}. ${task} (${difficulty})
 
-				[HackerRank link](<${link}>) (may be invalid)
+				[HackerRank link](<${link}>)
 
 				## Statement:
 

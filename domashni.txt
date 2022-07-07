@@ -1,0 +1,86 @@
+h-01;Входни задачи;https://www.hackerrank.com/contests/sda-hw-1/challenges
+Първо контролно;m;https://www.hackerrank.com/contests/sda-hw-1/challenges/the-first-challenge-v53
+Футболен отбор;h;https://www.hackerrank.com/contests/sda-hw-1/challenges/challenge-3065
+Уроци по английски;m;https://www.hackerrank.com/contests/sda-hw-1/challenges/challenge-3068
+h-02;Сортиране;https://www.hackerrank.com/contests/sda-hw-2/challenges
+Евтини подаръци;m;https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3091
+Logging, monitoring, alerting;m;https://www.hackerrank.com/contests/sda-hw-2/challenges/logging-monitoring-alerting
+Отбор за милиони;m;https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3088
+Добрите момчета от залите;m;https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3089
+h-03;Търсене;https://www.hackerrank.com/contests/sda-hw-3/challenges
+Точен куб;e;https://www.hackerrank.com/contests/sda-hw-3/challenges/challenge-3066
+Тема за проект;m;https://www.hackerrank.com/contests/sda-hw-3/challenges/challenge-3074
+Демони;m;https://www.hackerrank.com/contests/sda-hw-3/challenges/doom
+Weird Queries;h;https://www.hackerrank.com/contests/sda-hw-3/challenges/queries-5
+k-01;Сортиране и търсене;https://www.hackerrank.com/contests/sda-2021-2021-test-1/challenges
+Сортиране;m;https://www.hackerrank.com/contests/sda-2021-2021-test-1/challenges/challenge-3098
+Резултати от турнир;m;https://www.hackerrank.com/contests/sda-2021-2021-test-1/challenges/challenge-3099
+h-04;Свързан списък;https://www.hackerrank.com/contests/sda-hw-4/challenges
+Insert a node at a specific position in a linked list;e;https://www.hackerrank.com/contests/sda-hw-4/challenges/insert-a-node-at-a-specific-position-in-a-linked-list
+Find merge point of two lists;e;https://www.hackerrank.com/contests/sda-hw-4/challenges/find-the-merge-point-of-two-joined-linked-lists
+Delete a node;e;https://www.hackerrank.com/contests/sda-hw-4/challenges/delete-a-node-from-a-linked-list
+Exam;m;https://www.hackerrank.com/contests/sda-hw-4/challenges/exam-5-1
+ZUMA;h;https://www.hackerrank.com/contests/sda-hw-4/challenges/zuma-1
+h-05;Стек и опашка;https://www.hackerrank.com/contests/sda-hw-5/challenges
+Лекции;m;https://www.hackerrank.com/contests/sda-hw-5/challenges/lekcii
+Bridge battle;m;https://www.hackerrank.com/contests/sda-hw-5/challenges/bridge-battle-1
+Сума на минимални елементи;m;https://www.hackerrank.com/contests/sda-hw-5/challenges/challenge-2695
+Игри на волята;h;https://www.hackerrank.com/contests/sda-hw-5/challenges/challenge-3105
+k-02;Свързан списък, стек и опашка;https://www.hackerrank.com/contests/sda-2021-2021-test-2-test/challenges
+Изтриване на елемент от списък;m;https://www.hackerrank.com/contests/sda-2021-2021-test-2-test/challenges/challenge-3111
+Броене на елемент;m;https://www.hackerrank.com/contests/sda-2021-2021-test-2-test/challenges/challenge-3112
+Групиране на елементи;m;https://www.hackerrank.com/contests/sda-2021-2021-test-2-test/challenges/challenge-3113
+h-06;Binary Search Tree (BST);https://www.hackerrank.com/contests/sda-hw-6-2021/challenges
+Подаръци 1;m;https://www.hackerrank.com/contests/sda-hw-6-2021/challenges/1-266
+Горен изглед;m;https://www.hackerrank.com/contests/sda-hw-6-2021/challenges/top
+Няма К-то-мато;m;https://www.hackerrank.com/contests/sda-hw-6-2021/challenges/--108
+h-07;Balanced Search Tree (AVL);https://www.hackerrank.com/contests/sda-hw-7/challenges
+Маската на Зоро;e;https://www.hackerrank.com/contests/sda-hw-7/challenges/zoros-mask
+Minimum xor;m;https://www.hackerrank.com/contests/sda-hw-7/challenges/minimum-xor-3
+Smaller;h;https://www.hackerrank.com/contests/sda-hw-7/challenges/numbers-13-1
+k-03;Search trees (Binary & Balanced);https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges
+Манипулации на листа на дърво;m;https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges/challenge-1692
+Tree specific print;m;https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges/tree-specific-print
+h-08;Heap (пирамида);https://www.hackerrank.com/contests/sda-hw-8-2021/challenges
+Елитизъм;m;https://www.hackerrank.com/contests/sda-hw-8-2021/challenges/elitism
+Fullstack developer;e;https://www.hackerrank.com/contests/sda-hw-8-2021/challenges/fullstack-developer
+Контролни;h;https://www.hackerrank.com/contests/sda-hw-8-2021/challenges/challenge-2727
+Call center;m;https://www.hackerrank.com/contests/sda-hw-8-2021/challenges/call-center-1
+h-09;Hashtable;https://www.hackerrank.com/contests/sda-hw-9-2021/challenges
+Super mario;e;https://www.hackerrank.com/contests/sda-hw-9-2021/challenges/1-126-1
+Weighing animals;m;https://www.hackerrank.com/contests/sda-hw-9-2021/challenges/weighing-animals
+Дълъг подниз;h;https://www.hackerrank.com/contests/sda-hw-9-2021/challenges/longest-match
+k-04;Heap;https://www.hackerrank.com/contests/sda-2021-2022-test4-nov30/challenges
+Обработка на заявки;m;https://www.hackerrank.com/contests/sda-2021-2022-test4-nov30/challenges/challenge-3148
+k-05;Hashtable;https://www.hackerrank.com/contests/sda-2021-2022-test5-8dec/challenges
+Шифър;m;https://www.hackerrank.com/contests/sda-2021-2022-test5-8dec/challenges/challenge-3156
+Нечетен брой срещания;m;https://www.hackerrank.com/contests/sda-2021-2022-test5-8dec/challenges/challenge-3157
+h-10;Graph (BFS & DFS);https://www.hackerrank.com/contests/sda-hw-10-2021/challenges
+I use arch btw;m;https://www.hackerrank.com/contests/sda-hw-10-2021/challenges/if-you-reading-this-get-baited
+Cinema 2021;m;https://www.hackerrank.com/contests/sda-hw-10-2021/challenges/cinema-2021
+Нова азбука;m;https://www.hackerrank.com/contests/sda-hw-10-2021/challenges/challenge-2752
+h-11;Shortest path (Dijkstra);https://www.hackerrank.com/contests/sda-hw-11-2021/challenges
+Shortest paths;m;https://www.hackerrank.com/contests/sda-hw-11-2021/challenges/shortest-paths-2
+Tunnel maps;h;https://www.hackerrank.com/contests/sda-hw-11-2021/challenges/tunnel-maps
+Two sets;h;https://www.hackerrank.com/contests/sda-hw-11-2021/challenges/discos
+k-06;Graph (BFS, DFS, Shortest path);https://www.hackerrank.com/contests/sda-2021-2022-test-6-christmas/challenges
+Път в граф;e;https://www.hackerrank.com/contests/sda-2021-2022-test-6-christmas/challenges/challenge-2852
+Преброяване на области;m;https://www.hackerrank.com/contests/sda-2021-2022-test-6-christmas/challenges/challenge-2351
+h-12;Minimal Spanning Tree (MST);https://www.hackerrank.com/contests/12-2/challenges
+Въпроси;m;https://www.hackerrank.com/contests/12-2/challenges/roads-5
+Строене на пътища;m;https://www.hackerrank.com/contests/12-2/challenges/2-146
+Скорости;m;https://www.hackerrank.com/contests/12-2/challenges/challenge-2799
+h-13;Euler and Hamilton paths | P and NP;https://www.hackerrank.com/contests/sda-hw-13-2022/challenges
+Super Hamilton;m;https://www.hackerrank.com/contests/sda-hw-13-2022/challenges/all-paths42
+Минимална дълбочина;m;https://www.hackerrank.com/contests/sda-hw-13-2022/challenges/challenge-2806
+The Islander;m;https://www.hackerrank.com/contests/sda-hw-13-2022/challenges/islander
+k-07;Final test;https://www.hackerrank.com/contests/sda-2021-2022-test-7-final/challenges
+Държавната администрация;m;https://www.hackerrank.com/contests/sda-2021-2022-test-7-final/challenges/challenge-1770
+Суеверия;m;https://www.hackerrank.com/contests/sda-2021-2022-test-7-final/challenges/challenge-2817
+e-01;Изпит част 1 (задачи за 3-ка);https://www.hackerrank.com/contests/exam-2022-part1-sda/challenges
+Unique rows;e;https://www.hackerrank.com/contests/exam-2022-part1-sda/challenges/unique-rows
+SDA Exam;e;https://www.hackerrank.com/contests/exam-2022-part1-sda/challenges/sda-exam
+e-02;Изпит част 2 (задачи за майстори);https://www.hackerrank.com/contests/exam-2022-part2-sda/challenges
+Linked numbers;m;https://www.hackerrank.com/contests/exam-2022-part2-sda/challenges/linked-numbers
+Puncakes;m;https://www.hackerrank.com/contests/exam-2022-part2-sda/challenges/puncakes
+Leafs;h;https://www.hackerrank.com/contests/exam-2022-part2-sda/challenges/leafs
