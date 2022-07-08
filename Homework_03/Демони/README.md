@@ -13,6 +13,7 @@
 **Constraints**
 
 $1\le N\le 10^5$
+
 $1\le a_i, d_i \le 10^9$
 
 **Output format**

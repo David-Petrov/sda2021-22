@@ -13,6 +13,7 @@
 **Constraints**
 
 $1\le|\text{word}|\le100$
+
 $1\le N\le10^9$
 
 **Output format**

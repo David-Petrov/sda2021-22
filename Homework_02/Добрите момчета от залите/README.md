@@ -21,7 +21,9 @@
 **Constraints**
 
 $3 \le N \le 10^5$
+
 $20 \le d_i \le 2000$
+
 $1 \le t_i \le 2000$
 
 **Output format**

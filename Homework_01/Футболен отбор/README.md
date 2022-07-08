@@ -11,6 +11,7 @@
 
 **Constraints**
 $1\le N\le 10^6$
+
 $-2^{31}\le Arr[i]\le2^{31}-1$
 
 **Output format**

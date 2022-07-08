@@ -21,7 +21,9 @@
 **Constraints**
 
 $1\le N\le 10^6$
+
 $-10^6 \le A_i \le 10^6$
+
 $1 \le K\le N$
 
 **Output format**
