@@ -27,7 +27,9 @@
 **Constraints**
 
 $0\le N, Q\le 2\cdot10^5$
+
 $0\le a_i, P_i\le2\cdot10^5$
+
 $0\le S_i\le 10^9$
 
 **Output format**
