@@ -23,6 +23,8 @@ while read -r line <&3; do
             link="$(echo "${line}" | cut -d "${DELIM}" -f 3)"
             count="0"
 
+	    test -d "${assignment}" && continue
+
             mkdir -p "${assignment}"
 
             cat <<- EOF >> "${assignment}/${README_FILENAME}"
@@ -45,6 +47,8 @@ while read -r line <&3; do
                 )"
             link="$(echo "${line}" | cut -d "${DELIM}" -f 3)"
             count="$(echo "${count} + 1" | bc)"
+
+	    test -d "${assignment}/${task}" && continue
 
             mkdir -p "${assignment}/${task}"
 

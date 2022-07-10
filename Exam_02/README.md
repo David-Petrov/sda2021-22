@@ -16,3 +16,9 @@
 [HackerRank link](<https://www.hackerrank.com/contests/exam-2022-part2-sda/challenges/puncakes>)
 
 [Task statement](<./Puncakes/README.md>)
+
+## 3. Leafs (Hard)
+
+[HackerRank link](<https://www.hackerrank.com/contests/exam-2022-part2-sda/challenges/leafs>)
+
+[Task statement](<./Leafs/README.md>)
