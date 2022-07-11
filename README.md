@@ -183,3 +183,26 @@
 3. [Leafs](<./Exam_02/Leafs/README.md>) (Hard)
 </details>
 
+# Полезни връзки
+
+<details>
+  <summary>Някои полезни връзки</summary>
+
+### Платформи
+
+[USACO-Guide](https://usaco.guide/) - Безплатна платформа с много състезателни задачи, теория и решения  
+[LeetCode](https://leetcode.com/) - Платформа с подготвителни задачи за интервюта, както и онлайн състезания  
+[HackerRank](https://www.hackerrank.com/ ) - Платформа с подготвителни задачи за интервюта  
+
+
+### Литература
+
+[Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)  
+[Tech Interview Handbook](https://techinterviewhandbook.org/algorithms/array/)  
+
+### Полезни канали и курсове
+
+[MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)  
+[Errichto](https://www.youtube.com/c/Errichto)  
+
+</details>
