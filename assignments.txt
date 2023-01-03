@@ -23,7 +23,7 @@ Exam;m;https://www.hackerrank.com/contests/sda-hw-4/challenges/exam-5-1
 ZUMA;h;https://www.hackerrank.com/contests/sda-hw-4/challenges/zuma-1
 h-05;Стек и опашка;https://www.hackerrank.com/contests/sda-hw-5/challenges
 Лекции;m;https://www.hackerrank.com/contests/sda-hw-5/challenges/lekcii
-Bridge battle;m;https://www.hackerrank.com/contests/sda-hw-5/challenges/bridge-battle-1
+Bridge Battle;m;https://www.hackerrank.com/contests/sda-hw-5/challenges/bridge-battle-1
 Сума на минимални елементи;m;https://www.hackerrank.com/contests/sda-hw-5/challenges/challenge-2695
 Игри на волята;h;https://www.hackerrank.com/contests/sda-hw-5/challenges/challenge-3105
 k-02;Свързан списък, стек и опашка;https://www.hackerrank.com/contests/sda-2021-2021-test-2-test/challenges
@@ -40,14 +40,14 @@ Minimum xor;m;https://www.hackerrank.com/contests/sda-hw-7/challenges/minimum-xo
 Smaller;h;https://www.hackerrank.com/contests/sda-hw-7/challenges/numbers-13-1
 k-03;Search trees (Binary & Balanced);https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges
 Манипулации на листа на дърво;m;https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges/challenge-1692
-Tree specific print;m;https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges/tree-specific-print
+Tree-specific-print;m;https://www.hackerrank.com/contests/sda-2021-2021-test-3-november16/challenges/tree-specific-print
 h-08;Heap (пирамида);https://www.hackerrank.com/contests/sda-hw-8-2021/challenges
 Елитизъм;m;https://www.hackerrank.com/contests/sda-hw-8-2021/challenges/elitism
 Fullstack developer;e;https://www.hackerrank.com/contests/sda-hw-8-2021/challenges/fullstack-developer
 Контролни;h;https://www.hackerrank.com/contests/sda-hw-8-2021/challenges/challenge-2727
 Call center;m;https://www.hackerrank.com/contests/sda-hw-8-2021/challenges/call-center-1
 h-09;Hashtable;https://www.hackerrank.com/contests/sda-hw-9-2021/challenges
-Super mario;e;https://www.hackerrank.com/contests/sda-hw-9-2021/challenges/1-126-1
+Super Mario;e;https://www.hackerrank.com/contests/sda-hw-9-2021/challenges/1-126-1
 Weighing animals;m;https://www.hackerrank.com/contests/sda-hw-9-2021/challenges/weighing-animals
 Дълъг подниз;h;https://www.hackerrank.com/contests/sda-hw-9-2021/challenges/longest-match
 k-04;Heap;https://www.hackerrank.com/contests/sda-2021-2022-test4-nov30/challenges
